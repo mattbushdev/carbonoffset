@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-carbonoffset-dev-114911-authRole",
+      "UnauthRoleArn": "arn:aws:iam::017887543908:role/amplify-carbonoffset-dev-114911-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::017887543908:role/amplify-carbonoffset-dev-114911-authRole",
+      "Region": "eu-west-2",
+      "DeploymentBucketName": "amplify-carbonoffset-dev-114911-deployment",
+      "UnauthRoleName": "amplify-carbonoffset-dev-114911-unauthRole",
+      "StackName": "amplify-carbonoffset-dev-114911",
+      "StackId": "arn:aws:cloudformation:eu-west-2:017887543908:stack/amplify-carbonoffset-dev-114911/bd013ba0-1224-11ec-bcbe-0a7913f20808",
+      "AmplifyAppId": "d2j6zojn5nz83c"
+    },
+    "categories": {
+      "auth": {
+        "carbonoffsete9517ca2": {}
+      }
+    }
+  }
+}
